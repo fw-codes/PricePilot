@@ -1,4 +1,4 @@
-# PricePilot-E-commerce Product Scraper using Selenium
+# PricePilot: E-commerce Product Scraper using Selenium
 
 PricePilot is a Python-based web automation tool that scrapes product details from e-commerce websites (currently Amazon) and organizes them into a structured Excel file for easy comparison.
 
