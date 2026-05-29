@@ -48,3 +48,13 @@ It automates repetitive manual tasks like searching products, scrolling listings
 ### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
+
+## ⚠️ Important Note
+
+If you are using a local ChromeDriver setup, make sure:
+
+- Download ChromeDriver matching your Chrome version
+- Place it inside the project folder or update the path in code:
+
+```python
+Service("chromedriver-win64/chromedriver.exe")
